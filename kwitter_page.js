@@ -63,5 +63,5 @@ function updateLike(message_id) {
 
 $("#logout").click(function() {
 	localStorage.clear();
-	window.location.replace("kwitter.html");
+	window.location.replace("index.html");
 })
